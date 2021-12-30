@@ -1,1 +1,1 @@
-# Activitat4
+# Activitat4, arxiu readme de l'activitat 4
